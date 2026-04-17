@@ -18,8 +18,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@actions/core": "^1.10.0",
-    "@actions/github": "^6.0.0",
+    "@actions/core": "2.0.0",
+    "@actions/github": "8.0.1",
     "@aws-sdk/client-ec2": "^3.557.0",
     "lodash": "^4.17.21",
     "ncc": "^0.3.6"
